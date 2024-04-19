@@ -1,5 +1,5 @@
-## Generative Hyperelasticity with Physics-Informed Probabilistic Diffusion Fields
-## Vahid Tac, Purdue University, 2024
+### Generative Hyperelasticity with Physics-Informed Probabilistic Diffusion Fields
+### Vahid Tac, Purdue University, 2024
 #### USACM Student Chapter Seminar Series - Brief Tutorial
 ---
 
